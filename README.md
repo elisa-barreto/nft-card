@@ -1,6 +1,7 @@
-![elisa-barreto/nft-card/nft-card.gif](elisa-barreto/nft-card/nft-card.gif)
 
 # NFT Card
+
+![Demonstração do NFT Card](nft-card.gif)
 
 Este é um projeto de uma página web responsiva que exibe um cartão de NFT (Non-Fungible Token). Foi desenvolvido utilizando **apenas HTML e CSS**, com o objetivo principal de praticar e aprimorar minhas habilidades de estilização e layout com CSS.
 
