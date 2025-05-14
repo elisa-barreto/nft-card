@@ -1,4 +1,4 @@
-![Nft card](nft-card/nft-card.gif)
+![Nft card](elisa-barreto/nft-card/nft-card.gif)
 
 # NFT Card
 
